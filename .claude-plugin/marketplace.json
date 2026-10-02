@@ -6,12 +6,8 @@
   "plugins": [
     {
       "name": "kitlegal",
-      "source": {
-        "source": "archive",
-        "url": "https://github.com/jmorenobl/kitlegal/releases/download/v0.4.0/kitlegal-plugin.zip",
-        "sha256": "4dbc94193545cef823a1c352d4bd8402be83ac72ea06f440768e6fac9de118e1"
-      },
-      "version": "0.4.0",
+      "source": "./plugins/kitlegal",
+      "version": "0.4.1",
       "description": "Tu asistente de IA responde con la ley vigente del BOE y la cita exacta",
       "author": {
         "name": "kitlegal"
