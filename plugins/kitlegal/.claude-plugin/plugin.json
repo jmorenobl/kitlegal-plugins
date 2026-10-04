@@ -1,10 +1,11 @@
 {
   "name": "kitlegal",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "description": "Tu asistente de IA responde con la ley vigente del BOE y la cita exacta",
   "author": {
     "name": "kitlegal"
   },
   "homepage": "https://kitlegal.es",
-  "license": "EUPL-1.2"
+  "license": "EUPL-1.2",
+  "mcpServers": "./servers/kitlegal.mcpb"
 }
