@@ -7,7 +7,7 @@
     {
       "name": "kitlegal",
       "source": "./plugins/kitlegal",
-      "version": "0.6.0",
+      "version": "0.6.1",
       "description": "Tu asistente de IA responde con la ley vigente del BOE y la cita exacta",
       "author": {
         "name": "kitlegal"
